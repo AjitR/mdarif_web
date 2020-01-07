@@ -76,7 +76,7 @@
 }
 #ui-lightbox-bottombar>p {
 	margin-right:20px;
-	height:46px;
+	height:auto;
 	line-height:20px;
 }
 #ui-lightbox-bottombar-bottom {
